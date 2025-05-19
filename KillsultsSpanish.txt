@@ -1,13 +1,13 @@
-Algunos bebés se cayeron de cabeza, pero ¡a {player} claramente lo lanzaron contra una pared!
+Algunos bebés se cayeron de cabeza, pero a {player} claramente lo lanzaron contra una pared.
 La habilidad de {player} es más decepcionante que un pretzel sin sal.
 {player}, no te avergüences de quién eres. Ese es el trabajo de tus padres.
 Las rosas son rojas, las violetas azules, Dios me hizo increíble, ¿qué te pasó a ti, {player}?
 {player} no es tan malo como dicen… es mucho, mucho peor.
 ¿Cuántos años tienes, {player}? – Espera, mejor no pregunto, no puedes contar tan alto.
 ¿Cómo llegaste aquí, {player}? ¿Alguien dejó abierta tu jaula?
-Hoy me di cuenta de que no me agrada {player}.
+Hoy me di cuenta de que {player} es una perra.
 {player} es la razón por la que Dios creó el dedo del medio.
-¡{player} le da tanta alegría a todos! Bueno, cuando se va. Pero igual cuenta.
+{player} le da tanta alegría a todos! Bueno, cuando se va. Pero igual cuenta.
 La gente aplaude cuando ve a {player}. Se tapan los ojos con las manos.
 {player} debería llevar una planta encima para compensar el oxígeno que desperdicia.
 Aww, es tan tierno cuando {player} intenta hablar de cosas que no entiende.
@@ -36,7 +36,6 @@ La única vez que {player} tuvo una buena idea, fue cuando decidió quedarse cal
 Si la ignorancia pagara impuestos, {player} estaría en bancarrota por evasión.
 {player} no se cae porque la estupidez le da equilibrio.
 Si pudiera retroceder en el tiempo, iría a evitar que {player} existiera.
-A {player} le das un mapa y aún así se pierde en línea recta.
 {player} es como un capítulo de relleno: nadie lo pidió y todos quieren que termine.
 La única “kill” que consigue {player} es el tiempo de los demás.
 Si {player} fuera más lento, necesitaría rebobinar para respirar.
